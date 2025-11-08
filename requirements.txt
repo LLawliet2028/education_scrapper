@@ -1,0 +1,9 @@
+Flask
+requests
+pytrends
+praw
+google-api-python-client
+python-dotenv
+apscheduler
+sqlalchemy
+
